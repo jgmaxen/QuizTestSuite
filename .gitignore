@@ -131,7 +131,7 @@ dist
 
 .DS_Store
 
-# Cypress
-cypress/videos
-cypress/screenshots
-cypress/reports
+# # Cypress
+# cypress/videos
+# cypress/screenshots
+# cypress/reports
